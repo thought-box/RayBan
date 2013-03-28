@@ -1,4 +1,5 @@
 <?php
+echo ';;';
 if(!isset($_SESSION)) session_start();
 
 /*
